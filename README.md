@@ -10,6 +10,7 @@ There are two rules I'd as you to follow:
 The filestructure is like this:
 
 root
+
   *-- exercise1
   
     *-- <your name or synonym>
