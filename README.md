@@ -7,7 +7,7 @@ There are two rules I'd as you to follow:
 1. Do never share code that is part of your solution. Also, please don't include comments that give away inner workings of your solution.
 2. If you'd like to contribute testcases, contact me and I will give you write permission.
 
-The filestructure is like this:
+The filestructure is like this (in the case of exercise 1):
 
 root
 
