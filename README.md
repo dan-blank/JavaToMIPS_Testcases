@@ -15,8 +15,8 @@ root
   
     *-- <your name or synonym>
     
-      *-- ok-cases
+      *-- ok
       
-      *-- fail-cases
+      *-- error
 
-Happy CompilerConstruction-lecture together:)
+Happy compiler-class together:)
