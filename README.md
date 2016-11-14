@@ -7,16 +7,8 @@ There are two rules I'd as you to follow:
 1. Do never share code that is part of your solution. Also, please don't include comments that give away inner workings of your solution.
 2. If you'd like to contribute testcases, contact me and I will give you write permission.
 
-The filestructure is like this (in the case of exercise 1):
+The filestructure is like this: (Thanks SgnJp!)
 
-root
-
-  *-- exercise1
-  
-    *-- <your name or synonym>
-    
-      *-- ok
-      
-      *-- error
+exercise<number>/[ok|error]/<initials>_<test_case_name>.java
 
 Happy compiler-class together:)
