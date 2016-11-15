@@ -1,5 +1,0 @@
-class A {public static void main(String[] args){
-
-if(anExp) anExp else anId = anExp 
-while(anExp) anExp
-}}
