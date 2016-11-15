@@ -1,5 +1,0 @@
-class A {
-	public int main(awd args){
-		return 2;
-	}
-}
