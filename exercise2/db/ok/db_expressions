@@ -18,7 +18,6 @@ class BaseFoo {
     	a = new int[sd];
     	a = new id();
     	result = (41 +1);
-		true = !false;
 		a = b[b[2]];
 		new Object().apply(2,3,4,new OtherObject());
     	return 3;
