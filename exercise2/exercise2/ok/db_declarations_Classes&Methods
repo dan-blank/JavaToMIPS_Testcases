@@ -1,0 +1,27 @@
+class A {
+	public static void main(String[] args){
+		
+	}
+}
+class B extends A{
+	int[] asd;
+	boolean asd;
+	int asd;
+	Owntype asd;
+	public boolean alwaysreturnstrue(){
+	{
+		{
+			dsa = 2 + 12032;
+			if(4) 
+				System.out.println ( 5 ) ;
+			else
+				anotherObject = 3;
+			anotherObject = 123;
+			
+		}
+	}
+	while(true) System.out.println ( Thisloopneverends ) ;
+	return true;
+	}
+}
+class B {}
