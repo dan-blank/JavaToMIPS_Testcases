@@ -9,6 +9,6 @@ There are two rules I'd as you to follow:
 
 The filestructure is like this: (Thanks SgnJp!)
 
-exercise\<number>/[ok|error]/\<initials>_\<test_case_name>.java
+exercise\<number> / [ok|error] / \<initials>_\<test_case_name>.java
 
 Happy compiler-class together:)
