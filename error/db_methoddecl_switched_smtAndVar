@@ -1,9 +1,0 @@
-class Blub{
-    public static void main(String[] a){
-    }
-    public int[] asd(){
-	    anId = 4;
-	    int var;
-	    return 2;
-    }
-}
