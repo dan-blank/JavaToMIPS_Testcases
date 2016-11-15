@@ -19,7 +19,7 @@ class BaseFoo {
     	a = new id();
     	result = (41 +1);
 		a = b[b[2]];
-		new Object().apply(2,3,4,new OtherObject());
+		a = new Object().apply(2,3,4,new OtherObject());
     	return 3;
     }
   }
