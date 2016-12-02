@@ -1,17 +1,17 @@
 class A {
-	
-	public void static main(String[] args) {
-		
-		if(false)
-			{
-				{
-					int b;
-					System.out.println(b);
-				}
-			}
-		else
-			while(true)
-				System.out.println(1);
-	}
-	
+
+    public static void main(String[] args) {
+        int b;
+
+        if(false)
+            {
+                {
+                    System.out.println(b);
+                }
+            }
+        else
+            while(true)
+                System.out.println(1);
+    }
+
 }

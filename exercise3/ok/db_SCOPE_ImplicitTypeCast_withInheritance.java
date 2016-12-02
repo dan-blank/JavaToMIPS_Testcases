@@ -1,6 +1,6 @@
 class A {
 	
-	public void static main(String[] args) {
+	public static void main(String[] args) {
 		Super anObject;
 		Sub anotherObject;
 		int b;
