@@ -1,9 +1,10 @@
 class A {
 	
-	public void static main(String[] args) {
+	public static void main(String[] args) {
 		
 		int result;
-		Super anObject = new SubSubSubSub();
+		Super anObject;
+		anObject = new SubSubSubSub();
 		result = anObject.run();
 		
 	}

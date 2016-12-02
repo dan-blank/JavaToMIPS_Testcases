@@ -1,10 +1,10 @@
 class A {
 	
-	public void static main(String[] args) {
+	public static void  main(String[] args) {
 		
 		int result;
-		Super anObject = new Sub();
-		AnotherSub implicitelyDowncastedObject = anObject;
+		Sub anObject;
+		anObject = new Super();
 		
 	}
 	
@@ -15,13 +15,5 @@ class Super {
 }
 
 class Sub extends Super {
-	
-	public int run(){
-		return 1;
-	}
-	
-}
-
-class AnotherSub extends Super {
 	
 }

@@ -1,6 +1,6 @@
 class A {
 	
-	public void static main(String[] args) {
+	public static void main(String[] args) {
 		
 		int a;
 		int b;
@@ -13,10 +13,4 @@ class A {
 		
 	}
 	
-}
-
-class Super {
-
-	
-
 }

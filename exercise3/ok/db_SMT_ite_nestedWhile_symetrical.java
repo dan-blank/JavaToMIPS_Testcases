@@ -1,6 +1,6 @@
 class A {
 	
-	public void static main(String[] args) {
+	public static void main(String[] args) {
 		
 		if(false)
 			while(true)
@@ -8,8 +8,7 @@ class A {
 		else
 			{
 				{
-					int b;
-					System.out.println(b);
+					System.out.println(2);
 				}
 			}
 	}
