@@ -6,18 +6,12 @@ class A {
 	
 }
 
-class B {
+class Sub {
 	
-	public int run(){
+	int b;
 	
-		{
-			{
-				int x;
-			}
-			int x;
-		}
-		
-	
+	public int getB(){
+		return b;
 	}
 	
 }

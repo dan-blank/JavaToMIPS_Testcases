@@ -14,9 +14,3 @@ class A {
 	}
 	
 }
-
-class Super {
-
-	
-
-}

@@ -8,8 +8,7 @@ class A {
 		else
 			{
 				{
-					int b;
-					System.out.println(b);
+					System.out.println(2);
 				}
 			}
 	}

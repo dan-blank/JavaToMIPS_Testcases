@@ -5,7 +5,7 @@ class A {
 		int result;
 		Super anObject;
 		anObject = new Sub();
-		result = anObject.run();
+		result = anObject.getB();
 		
 	}
 	
@@ -13,13 +13,12 @@ class A {
 
 class Super {
 
-	public int run(){
-		return 1;
-	}
-
 }
 
 class Sub extends Super {
 	
+	public int getB(){
+		return 1;
+	}
 	
 }

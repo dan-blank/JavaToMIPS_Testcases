@@ -1,6 +1,6 @@
 class A {
 	
-	public static void static main(String[] args) {
+	public static void  main(String[] args) {
 		
 		b = 1 + 1;
 		
