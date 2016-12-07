@@ -12,11 +12,11 @@ class Foo
 		a = new int[123];
 		return 123;
 	}
-	public int foo()
+	public int foo2()
 	{
 		return a;
 	}
-	public int foo(boolean a, boolean b)
+	public int foo3(boolean a, boolean b)
 	{
 		while (a)
 		{

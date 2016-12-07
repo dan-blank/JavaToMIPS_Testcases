@@ -6,7 +6,7 @@ class A {
 
         a = new Foo();
         b = a.foo(2, 3);
-        c = a.foo(3);
+        c = a.foo1(3);
     }
 } 
   
@@ -18,7 +18,7 @@ class Foo {
         return local1;
     }
     
-    public int foo(int param1)
+    public int foo1(int param1)
     {   
         return 2;
     }

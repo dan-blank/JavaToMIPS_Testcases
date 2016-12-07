@@ -5,7 +5,7 @@ class A {
 		int v;
 		a = new Foo();
 
-		v = a.foo(2 + v);
+		v = a.foo1(2 + v);
 		b = a.foo(b);
 	}
 }
@@ -17,14 +17,14 @@ class C extends B
 {}
 
 class Foo {
-    public int foo(int param1, int param2)
+    public int foo2(int param1, int param2)
     {
         int local1;
         local1 = 1;
         return local1;
     }
 
-    public int foo(int param1)
+    public int foo1(int param1)
     {
         return 2;
     }

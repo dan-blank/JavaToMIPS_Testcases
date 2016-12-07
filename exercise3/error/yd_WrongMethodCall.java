@@ -10,7 +10,7 @@ class A {
 } 
   
 class Foo {
-    public int foo(int param1, int param2)
+    public int foo1(int param1, int param2)
     {   
         int local1;
         local1 = 1;
