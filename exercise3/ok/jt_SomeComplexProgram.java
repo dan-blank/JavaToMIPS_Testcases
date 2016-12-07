@@ -1,7 +1,9 @@
 
 class A {
 	public static void main(String[] args){
-	    System.out.println(B.test(2, 3));	
+	    B aBObject;
+	    aBObject = new B();
+		System.out.println(aBObject.test(2, false));	
 	}
 }
 
@@ -9,9 +11,9 @@ class B {
     int a;
     int d;
     public int test(int a, boolean c) {
-        int[] a;
-        a = new int[5];
-        return a[3];
+        int[] x;
+        x = new int[5];
+        return x[3];
     }
 }
 
