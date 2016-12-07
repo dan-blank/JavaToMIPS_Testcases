@@ -12,7 +12,7 @@ class Foo {
         return local1;
     }
 
-    public int foo(int param1)
+    public int foo2(int param1)
     {
         return 2;
     }
