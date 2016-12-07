@@ -18,7 +18,7 @@ class OriginBehavior {
 }
 
 class SpecificBehavior extends OriginBehavior {
-    public SubType test(int a, SubType c) {
+    public SubType test(int a, BaseType c) {
         return new SubType();
     }
 }
