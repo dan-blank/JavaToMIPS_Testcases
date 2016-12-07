@@ -8,8 +8,8 @@ class Foo
 	int a;
 	public int foo(boolean a)
 	{
-		int[] a;
-		a = new int[123];
+		int[] x;
+		x = new int[123];
 		return 123;
 	}
 	public int foo2()
