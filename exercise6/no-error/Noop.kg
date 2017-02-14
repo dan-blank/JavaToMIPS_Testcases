@@ -1,0 +1,5 @@
+MAIN [0][0][0]
+	PRINT 31
+	NOOP 
+	PRINT 2
+END

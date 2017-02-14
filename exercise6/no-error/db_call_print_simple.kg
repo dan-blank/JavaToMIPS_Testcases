@@ -1,0 +1,6 @@
+MAIN [0][0][0]
+	CALL FUNC
+END
+FUNC [0][0][0]
+	PRINT 2
+END
