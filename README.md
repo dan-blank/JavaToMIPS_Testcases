@@ -1,15 +1,19 @@
 # Testcases_CompilerConstruction16-17
 
-Since the testcases are not part of the solution, we are allowed to share them (Our tutor confirmed this).
+This is a yet-to-be-polished collection of testcases for compiler classes based on "Modern Compiler Implementation in Java" by Prof. Andrew Appel and Prof. Jens Palsberg. (One such class given by Prof. Jens Palsberg himself can be found online at http://web.cs.ucla.edu/~palsberg/course/cs132/project.html).
 
-There is one rules I'd like you to follow:
+I started this repo to collect testcases together with fellow students of the class "Compiler Construction" given by Prof. Peter Thiemann - and it saved us many a point. In the hope that others could profit from this too, I keep this repo up. You should still try to come up with your own testcases! If you come up with new testcases, pull requests are more than welcome :)
 
-1. Do never share code that is part of your solution. Also, please don't include comments that give away inner workings of your solution.
+To do:
 
-If you'd like to contribute testcases, contact me and I will give you write permission.
+* Name testcases systematically
 
-The filestructure is like this: (Thanks SgnJp!)
+* Erase redundant testcases
 
-exercise\<number> / [ok|error] / \<initials>_\<test_case_name>.java
+Open question:
 
-Happy hacking! :)
+Should testbases contain comments within their sourcecode? 
+**Pro:** Testcases become more understandable.
+**Contra:** Otherwise viable testcases might fail if the parser can't handle comments properly.
+
+Happy hacking!
