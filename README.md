@@ -1,4 +1,4 @@
-# Testcases_CompilerConstruction16-17
+# JavaToMips_Testcases
 
 This is a yet-to-be-polished collection of testcases for compiler classes based on "Modern Compiler Implementation in Java" by Prof. Andrew Appel and Prof. Jens Palsberg. (One such class given by Prof. Jens Palsberg himself can be found online at http://web.cs.ucla.edu/~palsberg/course/cs132/project.html).
 
