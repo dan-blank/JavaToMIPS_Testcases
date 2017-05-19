@@ -12,7 +12,7 @@ To do:
 
 Open question:
 
-Should testbases contain comments within their sourcecode? 
+Should testcases contain comments within their sourcecode? 
 **Pro:** Testcases become more understandable.
 **Contra:** Otherwise viable testcases might fail if the parser can't handle comments properly.
 
